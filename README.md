@@ -1,3 +1,3 @@
 # SVG-animation
 
-<a href="https://codepen.io/simadurlan/pen/gevwEe">DEMO</a>
+<a href="https://codepen.io/simadurlan/pen/gevwEe" target="_blank">DEMO</a>
